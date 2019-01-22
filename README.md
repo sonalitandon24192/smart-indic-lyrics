@@ -1,5 +1,5 @@
 # smart-indic-lyrics
-Language learning through music
+Indian language learning through music
 
 
 Authors : Sonali Tandon & Priya Lakshman
