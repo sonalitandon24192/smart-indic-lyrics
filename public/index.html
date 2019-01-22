@@ -1,0 +1,29 @@
+<html ng-app="todoApp">
+     <head>
+       <script src="./scripts/ng/jquery.min.js"></script>
+       <script src="./scripts/ng/angular.js"></script>
+       <script src="./scripts/ng/angular-route.js"></script>
+       <script src="./scripts/ng/angular-file-saver.js"></script>
+       <script src="./customjs/ui-bootstrap-tpls.min.js"></script>
+       
+       <script src="./scripts/ng/bootstrap.min.js"></script>
+
+       <script src="./scripts/app.js"></script>
+       <script src="./scripts/controllers/mainController.js"></script>
+       <script src="./scripts/services/smiService.js"></script>
+       <script src="./scripts/services/logService.js"></script>
+
+      <link rel="stylesheet" href="./styles/style.css">
+      <link href="./customcss/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="./customcss/font-awesome.min.css">
+      <script src="./scripts/ng/popcorn.min.js"></script>
+      <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        window.Popcorn = Popcorn;
+         }, false);
+      </script>
+     </head>
+     <body>
+        <div class="main-container" ng-view></div>
+     </body>
+   </html>

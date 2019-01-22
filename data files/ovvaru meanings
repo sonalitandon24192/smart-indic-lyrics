@@ -1,0 +1,1346 @@
+[
+  {
+    nativeWord: "பூக்களுமே",
+    englishMeaning: "Flower",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "Flowers are beautiful.",
+        "nativeSentence": "பூக்கள் அழகாய் இருக்கிறாய் "
+      }
+    ]
+  },
+  {
+    nativeWord: "சொல்கிறதே",
+    englishMeaning: "Says",
+    partOfSpeech: "Verb",
+    sentences: [
+      {
+        "englishSentence": "We should always say the truth.",
+        "nativeSentence": "நாம் எப்போதுமே உண்மை சொல்ல வேண்டும்"
+      }
+    ]
+  },
+  {
+    nativeWord: "போராடும்",
+    englishMeaning: "Fight",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "We'll get into a fight and wind up with bloody noses",
+        "nativeSentence": "நாம் சண்டை மற்றும் இரத்தம் தோய்ந்த மூக்கை வைத்து முடிவாய்"
+      }
+    ]
+  },
+  {
+    nativeWord: "பொர்க்களமே",
+    englishMeaning: "War",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "The second world war caused a lot of damage.",
+        "nativeSentence": "இரண்டாம் உலகப் போர் சேதம் நிறைய ஏற்படும்"
+      }
+    ]
+  },
+  {
+    nativeWord: "விடியலுமே",
+    englishMeaning: "Sunrise",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "The sun rises in the east",
+        "nativeSentence": "சூரியன் கிழக்கில் உதிக்கிறது"
+      }
+    ]
+  },
+  {
+    nativeWord: "இரவானால்",
+    englishMeaning: "Night",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "It is dark in the night.",
+        "nativeSentence": "இது இரவு இருட்டாக இருக்கிறது"
+      }
+    ]
+  },
+  {
+    nativeWord: "வந்திடுமே",
+    englishMeaning: "will come",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "Good times come to good people.",
+        "nativeSentence": "நல்ல முறை நல்ல மக்கள் வந்து."
+      }
+    ]
+  },
+  {
+    nativeWord: "என்பது",
+    englishMeaning: "The",
+    partOfSpeech: "adjective",
+    sentences: [
+      {
+        "englishSentence": "The time is 12:00 pm.",
+        "nativeSentence": "நேரம் 12:00 மணி ஆகும். "
+      }
+    ]
+  },
+  {
+    nativeWord: "வேண்டும்",
+    englishMeaning: "Should",
+    partOfSpeech: "auxiliary verb",
+    sentences: [
+      {
+        "englishSentence": "We should always say the truth.",
+        "nativeSentence": "நாம் எப்போதுமே உண்மை சொல்ல வேண்டும்."
+      }
+    ]
+  },
+  {
+    nativeWord: "வாழ்வில்",
+    englishMeaning: "Lives",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "The doctors said she had only six months to live.",
+        "nativeSentence": "டாக்டர்கள் அவர் வாழ மட்டுமே ஆறு மாதங்களுக்கு கூறினார்."
+      }
+    ]
+  },
+  {
+    nativeWord: "லட்சியம்",
+    englishMeaning: "Vow",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "Marriage vows are meant to last forever.",
+        "nativeSentence": "திருமணத்தை எப்போதும் நீடிக்கும் பொருள்."
+      }
+    ]
+  },
+  {
+    nativeWord: "வெல்லும்",
+    englishMeaning: "Triumphs",
+    partOfSpeech: "Verb",
+    sentences: [
+      {
+        "englishSentence": "Good triumps over evil.",
+        "nativeSentence": "தீமையை நன்மை வெல்லும்."
+      }
+    ]
+  },
+  {
+    nativeWord: "ஒரு",
+    englishMeaning: "A",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "A man came out of the room",
+        "nativeSentence": "ஒரு மனிதன் அறையை விட்டு வெளியே வந்தேன்"
+      }
+    ]
+  },
+  {
+    nativeWord: "நாளில்",
+    englishMeaning: "Day",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "The laws were very strict in those days.",
+        "nativeSentence": "சட்டங்கள் அந்த நாட்களில் அவ்வளவு எளிதல்ல."
+      }
+    ]
+  },
+  {
+    nativeWord: "மனமே",
+    englishMeaning: "Mind",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "As the thoughts ran through his mind, he came to a conclusion",
+        "nativeSentence": "எண்ணங்கள் அவரது மனதில் மூலம் ஓடி, அவர் ஒரு முடிவுக்கு வந்தது"
+      }
+    ]
+  },
+  {
+    nativeWord: "மாறிவிடு",
+    englishMeaning: "Becomes",
+    partOfSpeech: "Verb",
+    sentences: [
+      {
+        "englishSentence": "They became angry",
+        "nativeSentence": "அவர்கள் கோபமாக மாறியது"
+      }
+    ]
+  },
+  {
+    nativeWord: "மலையோ",
+    englishMeaning: "Mind",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "As the thoughts ran through his mind, he came to a conclusion",
+        "nativeSentence": "எண்ணங்கள் அவரது மனதில் மூலம் ஓடி, அவர் ஒரு முடிவுக்கு வந்தது"
+      }
+    ]
+  },
+  {
+    nativeWord: "பனியோ",
+    englishMeaning: "Snow",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "We were trudging through deep snow",
+        "nativeSentence": "நாம் ஆழமான பனியிலும் trudging செய்யப்பட்டனர்"
+      }
+    ]
+  },
+  {
+    nativeWord: "மோதி",
+    englishMeaning: "Language",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "Tamil is spoken widely across India.",
+        "nativeSentence": "தமிழ் இந்தியா முழுவதும் பரவலாக பேசப்படுகிறது."
+      }
+    ]
+  },
+  {
+    nativeWord: "உடைந்து",
+    englishMeaning: "Broken",
+    partOfSpeech: "Adjective",
+    sentences: [
+      {
+        "englishSentence": "He went to his grave a broken man",
+        "nativeSentence": "அவர் அவரது கல்லறையில் ஒரு உடைந்த மனிதன் சென்றார்"
+      }
+    ]
+  },
+  {
+    nativeWord: "போகக்",
+    englishMeaning: "Go",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "Go to temple everyday for spiritual well being.",
+        "nativeSentence": "ஆன்மீக நலனுக்காக தினமும் கோவிலுக்கு செல்லுகின்றனர்."
+      }
+    ]
+  },
+  {
+    nativeWord: "கூடாது",
+    englishMeaning: "Do not",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "Do not drink and drive.",
+        "nativeSentence": "மது அருந்திவிட்டு வாகனம் ஓட்டதே."
+      }
+    ]
+  },
+  {
+    nativeWord: "இந்த",
+    englishMeaning: "This",
+    partOfSpeech: "Pronoun",
+    sentences: [
+      {
+        "englishSentence": "Is this your bag?",
+        "nativeSentence": "இந்த உங்கள் பையில்?"
+      }
+    ],
+    alternativeMeaning: {
+      englishMeaning: "This",
+      partOfSpeech: "adverb",
+      sentences: [
+        {
+          "englishSentence": "They can't handle a job this big",
+          "nativeSentence": "அவர்களுக்கு வேலை கையாள முடியாது இந்த பெரிய"
+        }
+      ]
+    }
+  },
+  {
+    nativeWord: "வாழ்கையென்றே",
+    englishMeaning: "Life",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "Life is beautiful.",
+        "nativeSentence": "வாழ்க்கை அழகானது."
+      }
+    ]
+  },
+  {
+    nativeWord: "தோன்றக்",
+    englishMeaning: "Appear",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "Appearances can be deceiving.",
+        "nativeSentence": "தோற்றம் தவறாக இருக்கலாம்."
+      }
+    ]
+  },
+  {
+    nativeWord: "நெஞ்சுக்குள்",
+    englishMeaning: "Heart",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "Right in the heart of the city",
+        "nativeSentence": "வலது நகரின் மையத்தில்"
+      }
+    ]
+  },
+  {
+    nativeWord: "சொல்லுங்கள்",
+    englishMeaning: "tell me",
+    partOfSpeech: "Verb",
+    sentences: [
+      {
+        "englishSentence": "Tell me the truth.",
+        "nativeSentence": "என்னிடம் உண்மையை சொல்."
+      }
+    ]
+  },
+  {
+    nativeWord: "காலப்போக்கில்",
+    englishMeaning: "In time",
+    partOfSpeech: "Adverb",
+    sentences: [
+      {
+        "englishSentence": "Time heals everything.",
+        "nativeSentence": "நேரம் எல்லாம் ஆற்றும்."
+      }
+    ]
+  },
+  {
+    nativeWord: "காயமெல்லாம்",
+    englishMeaning: "wound",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "the sergeant was seriously wounded",
+        "nativeSentence": "சார்ஜென்ட் தீவிரமான காயங்களுக்கு உட்பட்டுள்ளார்"
+      }
+    ]
+  },
+  {
+    nativeWord: "மாறிப்போகும்",
+    englishMeaning: "Shall",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "This time next week I shall be in Scotland",
+        "nativeSentence": "நான் ஸ்காட்லாந்தில் இருக்க வேண்டும் இந்த நேரத்தில் அடுத்த வாரம்"
+      }
+    ]
+  },
+  {
+    nativeWord: "மாயங்கள்",
+    englishMeaning: "Magic",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "do you believe in magic?",
+        "nativeSentence": "நீங்கள் மாய நீங்கள் நம்புகிறீர்கள்?"
+      }
+    ]
+  },
+  {
+    nativeWord: "தாங்கும்",
+    englishMeaning: "Accommodation",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "Management was seeking an accommodation with labor",
+        "nativeSentence": "தொழிலாளர் ஒரு விடுதி மேலாண்மை முயன்று வருவதாகக்."
+      }
+    ]
+  },
+  {
+    nativeWord: "கற்கள்",
+    englishMeaning: "Gems",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "Gems are added for embellishments on ornaments.",
+        "nativeSentence": "இரத்தினங்கள் ஆபரணங்களைத் அழகுபடுத்தல் சேர்க்கப்படும்."
+      }
+    ]
+  },
+  {
+    nativeWord: "தானே",
+    englishMeaning: "Means",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "I dont know what you mean.",
+        "nativeSentence": "நான் உனக்கு என்ன தெரியும் இல்லை."
+      }
+    ]
+  },
+  {
+    nativeWord: "மண்மீது",
+    englishMeaning: "On soil",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "Farmers toil on the soil day and night for good crops.",
+        "nativeSentence": "விவசாயிகள் நல்ல பயிர்களுக்கு மண் நாள் மற்றும் இரவு உழைப்பதில்லை."
+      }
+    ]
+  },
+  {
+    nativeWord: "சிலையாகும்",
+    englishMeaning: "Statue",
+    partOfSpeech: "Noun",
+    sentences: [
+      {
+        "englishSentence": "The sculptor Antonio Canova used classical statues for inspiration.",
+        "nativeSentence": "சிற்பி அன்டோனியோ உத்வேகம் கிளாசிக்கல் சிலைகள் பயன்படுத்தப்படும்."
+      }
+    ]
+  },
+  {
+    nativeWord: "நிலையான",
+    englishMeaning: "Fixed",
+    partOfSpeech: "Adjective",
+    sentences: [
+      {
+        "englishSentence": "A fixed iron ladder down the port side",
+        "nativeSentence": "துறைமுக பகுதியில் கீழே ஒரு நிலையான இரும்பு ஏணி"
+      }
+    ]
+  },
+  {
+    nativeWord: "காணும்",
+    englishMeaning: "See",
+    partOfSpeech: "Verb",
+    sentences: [
+      {
+        "englishSentence": "Beauty lies in the eyes of the viewer.",
+        "nativeSentence": "அழகு பார்வையாளர் கண்களில் உள்ளது."
+      }
+    ]
+  },
+  {
+    nativeWord: "யாருக்கில்லை",
+    englishMeaning: "Whom",
+    partOfSpeech: "Pronoun",
+    sentences: [
+      {
+        "englishSentence": "Whom did he marry?",
+        "nativeSentence": "அவர் யாரை திருமணம் செய்தீர்கள்?"
+      }
+    ]
+  },
+  {
+    nativeWord: "கண்ணில்",
+    englishMeaning: "On",
+    partOfSpeech: "Preposition",
+    sentences: [
+      {
+        "englishSentence": "The jug is on the table.",
+        "nativeSentence": "குடம் மேஜையில் உள்ளது."
+      }
+    ]
+  },
+  {
+    nativeWord: "கண்டால்",
+    englishMeaning: "If you find",
+    partOfSpeech: "Verb",
+    sentences: [
+      {
+        "englishSentence": "You are lucky to find true love in life.",
+        "nativeSentence": "நீங்கள் வாழ்க்கையில் உண்மையான அன்பை அதிர்ஷ்டம். "
+      }
+    ]
+  },
+  {
+    nativeWord: "அதை",
+    englishMeaning: "It",
+    partOfSpeech: "Preposition",
+    sentences: [
+      {
+        "englishSentence": "Jug was filled with water. It was heavy.",
+        "nativeSentence": "ஜக் நீர் நிறைந்தது. அது கனமாக இருந்தது."
+      }
+    ]
+  },
+  {
+    nativeWord: "என்றால்",
+    englishMeaning: "Means",
+    partOfSpeech: "Verb",
+    sentences: [
+      {
+        "englishSentence": "I don't know what you mean",
+        "nativeSentence": "நான் உனக்கு என்ன தெரியும் இல்லை."
+      }
+    ]
+  },
+  {
+    nativeWord: "நிஜமாகும்",
+    englishMeaning: "Come true",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "Dreams come true with hardwork.",
+        "nativeSentence": "ட்ரீம்ஸ் கடின உழைப்பால் நனவாகும்."
+      }
+    ]
+  },
+  {
+    nativeWord: "வாழ்வென்றால்",
+    englishMeaning: "Life",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "Life is beautiful",
+        "nativeSentence": "வாழ்க்கை அழகானது."
+      }
+    ]
+  },
+  {
+    nativeWord: "போர்க்களமே",
+    englishMeaning: "War",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "The second world war caused a lot of damage.",
+        "nativeSentence": "இரண்டாம் உலகப் போர் சேதம் நிறைய ஏற்படும்"
+      }
+    ]
+  }, {
+	"nativeWord": "ஒவ்வொரு",
+	"englishMeaning": "every",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "பகல்",
+	"englishMeaning": "day",
+	"sentences": [{
+		"nativeSentence": "பிடிப்புப்பகலையிலிருந்து ஒட்டுகின்றது",
+		"englishSentence": "Pasting from clipboard"
+	}, {
+		"nativeSentence": "வெயில்கால நீண்ட பகல் நேரம்City name (optional, probably does not need a translation",
+		"englishSentence": "Summerside"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "ஒன்று",
+	"englishMeaning": "one",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "கிஸ்கி குணங்கள் திருத்தி மற்றும் படிவ வடிவமைப்பவர்",
+		"englishSentence": "KexiPropertyEditor and FormDesigner"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "அது",
+	"englishMeaning": "it",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "ஓ",
+	"englishMeaning": "expletive",
+	"sentences": [{
+		"nativeSentence": "ஐ/ஓ வெளியில் பதிலிடுதல்",
+		"englishSentence": "Response in I/O space"
+	}, {
+		"nativeSentence": "ஆப்பிரிக்கா/சாஓ_ டோம்",
+		"englishSentence": "Africa/Sao_Tome"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "நம்",
+	"englishMeaning": "homage",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "நீ",
+	"englishMeaning": "you",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "திரை நிலைக்கருவிName",
+		"englishSentence": "A monitor calibration tool"
+	}],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "நம்பிக்கை",
+	"englishMeaning": "hope",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "என்ன",
+	"englishMeaning": "what",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "என்றும்",
+	"englishMeaning": "always",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "கோப்பில் சேமி",
+		"englishSentence": "Save Image to File"
+	}],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "உள்ளம்",
+	"englishMeaning": "heart",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "நிச்சயம்",
+	"englishMeaning": "assurance",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "ஒவ்வொரு",
+	"englishMeaning": "every",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "எண்ணம்",
+	"englishMeaning": "thought",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "விடு",
+	"englishMeaning": "equinox",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "அது",
+	"englishMeaning": "it",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "பகல்",
+	"englishMeaning": "day",
+	"sentences": [{
+		"nativeSentence": "பிடிப்புப்பகலையிலிருந்து ஒட்டுகின்றது",
+		"englishSentence": "Pasting from clipboard"
+	}, {
+		"nativeSentence": "வெயில்கால நீண்ட பகல் நேரம்City name (optional, probably does not need a translation",
+		"englishSentence": "Summerside"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "காயம்",
+	"englishMeaning": "wound",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "மனிதன்",
+	"englishMeaning": "man",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "ஒன்று",
+	"englishMeaning": "one",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "கிஸ்கி குணங்கள் திருத்தி மற்றும் படிவ வடிவமைப்பவர்",
+		"englishSentence": "KexiPropertyEditor and FormDesigner"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "இல்லை",
+	"englishMeaning": "no",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "நம்",
+	"englishMeaning": "homage",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "நீ",
+	"englishMeaning": "you",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "திரை நிலைக்கருவிName",
+		"englishSentence": "A monitor calibration tool"
+	}],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "ஓ",
+	"englishMeaning": "expletive",
+	"sentences": [{
+		"nativeSentence": "ஐ/ஓ வெளியில் பதிலிடுதல்",
+		"englishSentence": "Response in I/O space"
+	}, {
+		"nativeSentence": "ஆப்பிரிக்கா/சாஓ_ டோம்",
+		"englishSentence": "Africa/Sao_Tome"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "உளி",
+	"englishMeaning": "chisel",
+	"sentences": [{
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}, {
+		"nativeSentence": "உள்ளிறுப்பு அறிவிப்பு",
+		"englishSentence": "interior declaration"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "ஓரு",
+	"englishMeaning": "instant",
+	"sentences": [{
+		"nativeSentence": "ஓரிடத்தனிமங்கள்",
+		"englishSentence": "Isotopesize"
+	}, {
+		"nativeSentence": "இடது ஓர கண்டுபிடித்தல்",
+		"englishSentence": "Left Edge Detection"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "வலி",
+	"englishMeaning": "pain",
+	"sentences": [{
+		"nativeSentence": "x#dpi, ஊடுருவல் படலம்",
+		"englishSentence": "x#dpi, transparency film"
+	}, {
+		"nativeSentence": "மற்ற அச்சுப்பொறி எந்த அச்சுப்பொறி வகைக்கும் பயன்படுத்தவும். இந்த விருப்பத்தைப் பயன்படுத்த, உங்களுக்கு கண்டிப்பாக அச்சுப்பொறி நிறுவலுக்கான URI தெரிந்திருக்க வேண்டும். CUPS ஆவண அச்சுப்பொறியின் கூடுதல் தகவலை பரிசோதிக்கவும். இந்த விருப்பம் மற்ற முடியும் நிலைமைகளை #ஆம் குழுவாக பயன்படுத்த அச்சுப்பொறியை அமைக்கவும்",
+		"englishSentence": "Other printer Use this for any printer type. To use this option, you must know the URI of the printer you want to install. Refer to the CUPS documentation for more information about the printer URI. This option is mainly useful for printer types using #rd party backends not covered by the other possibilities"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "சுகம்",
+	"englishMeaning": "ease",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "நீரோட்டம்",
+	"englishMeaning": "channel",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "தினமும்",
+	"englishMeaning": "daily",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "மகிழ்ச்சி",
+	"englishMeaning": "joy",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "நம்பிக்கை",
+	"englishMeaning": "hope",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "மட்டும்",
+	"englishMeaning": "only",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "மூச்சு",
+	"englishMeaning": "breath",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "எந்த",
+	"englishMeaning": "what",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "கீரி",
+	"englishMeaning": "mongoose",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "உள்ளம்",
+	"englishMeaning": "heart",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "கவிதை",
+	"englishMeaning": "poem",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "விதை",
+	"englishMeaning": "seed",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "போடு",
+	"englishMeaning": "luck",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "அந்த",
+	"englishMeaning": "that",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "போராட்டம்",
+	"englishMeaning": "struggle",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "நிச்சயம்",
+	"englishMeaning": "assurance",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "எண்ணம்",
+	"englishMeaning": "thought",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "விடு",
+	"englishMeaning": "equinox",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "காயம்",
+	"englishMeaning": "wound",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "மனிதன்",
+	"englishMeaning": "man",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "இல்லை",
+	"englishMeaning": "no",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "லட்சம்",
+	"englishMeaning": "lakh",
+	"sentences": [{
+		"nativeSentence": "திருத்துபவரும் வித்தியாசமான வெளியீட்டு எழுத்துக்களும்",
+		"englishSentence": "Editor & Diff Output Font"
+	}, {
+		"nativeSentence": "இயந்திரம் % # தொகுப்பு % # நிறுவப்பட்டுள்ளது, ஆனால் குறைந்தபட்சம் % #தொகுப்பு தேவைப்படுகிறது",
+		"englishSentence": "Engine %# version %# installed, but at least version %# is required"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "வாழ்க்கை",
+	"englishMeaning": "life",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "உளி",
+	"englishMeaning": "chisel",
+	"sentences": [{
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}, {
+		"nativeSentence": "உள்ளிறுப்பு அறிவிப்பு",
+		"englishSentence": "interior declaration"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "ஓரு",
+	"englishMeaning": "instant",
+	"sentences": [{
+		"nativeSentence": "ஓரிடத்தனிமங்கள்",
+		"englishSentence": "Isotopesize"
+	}, {
+		"nativeSentence": "இடது ஓர கண்டுபிடித்தல்",
+		"englishSentence": "Left Edge Detection"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "கனவு",
+	"englishMeaning": "dream",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "வலி",
+	"englishMeaning": "pain",
+	"sentences": [{
+		"nativeSentence": "x#dpi, ஊடுருவல் படலம்",
+		"englishSentence": "x#dpi, transparency film"
+	}, {
+		"nativeSentence": "மற்ற அச்சுப்பொறி எந்த அச்சுப்பொறி வகைக்கும் பயன்படுத்தவும். இந்த விருப்பத்தைப் பயன்படுத்த, உங்களுக்கு கண்டிப்பாக அச்சுப்பொறி நிறுவலுக்கான URI தெரிந்திருக்க வேண்டும். CUPS ஆவண அச்சுப்பொறியின் கூடுதல் தகவலை பரிசோதிக்கவும். இந்த விருப்பம் மற்ற முடியும் நிலைமைகளை #ஆம் குழுவாக பயன்படுத்த அச்சுப்பொறியை அமைக்கவும்",
+		"englishSentence": "Other printer Use this for any printer type. To use this option, you must know the URI of the printer you want to install. Refer to the CUPS documentation for more information about the printer URI. This option is mainly useful for printer types using #rd party backends not covered by the other possibilities"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "சுகம்",
+	"englishMeaning": "ease",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "நீரோட்டம்",
+	"englishMeaning": "channel",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "தினமும்",
+	"englishMeaning": "daily",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "துக்கம்",
+	"englishMeaning": "grief",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "வானம்",
+	"englishMeaning": "sky",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "மகிழ்ச்சி",
+	"englishMeaning": "joy",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "மட்டும்",
+	"englishMeaning": "only",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "மூச்சு",
+	"englishMeaning": "breath",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "எந்த",
+	"englishMeaning": "what",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "கீரி",
+	"englishMeaning": "mongoose",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "என்றும்",
+	"englishMeaning": "always",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "கோப்பில் சேமி",
+		"englishSentence": "Save Image to File"
+	}],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "விதை",
+	"englishMeaning": "seed",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "போடு",
+	"englishMeaning": "luck",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "அந்த",
+	"englishMeaning": "that",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "போராட்டம்",
+	"englishMeaning": "struggle",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "லட்சம்",
+	"englishMeaning": "lakh",
+	"sentences": [{
+		"nativeSentence": "திருத்துபவரும் வித்தியாசமான வெளியீட்டு எழுத்துக்களும்",
+		"englishSentence": "Editor & Diff Output Font"
+	}, {
+		"nativeSentence": "இயந்திரம் % # தொகுப்பு % # நிறுவப்பட்டுள்ளது, ஆனால் குறைந்தபட்சம் % #தொகுப்பு தேவைப்படுகிறது",
+		"englishSentence": "Engine %# version %# installed, but at least version %# is required"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "வாழ்க்கை",
+	"englishMeaning": "life",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "கனவு",
+	"englishMeaning": "dream",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "துக்கம்",
+	"englishMeaning": "grief",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "அவமானம்",
+	"englishMeaning": "disgrace",
+	"sentences": [{
+		"nativeSentence": "நீங்கள் இந்த தேர்வை பயன்படுத்தினால் உங்கள் மேசை அடைவில் [. ] யோடு துவங்கும். அனைத்து கோப்புகளும் காட்டப்படும். இது போன்ற கோப்புகளில் \\ வடிவமைப்பு தகவல்கள் இருக்ப்பதால் மறைக்கப்பட்டிருக்கும். உதாரணமாக \\\\ \". directory \\\\ \" பெயருள்ள கோப்பு சாதாரண உரைக்கோப்பாக கான்கொரர் தகவல்கள், அடைவைக்காட்டும் சின்னம், கோப்புகள் அடுக்கப்படவேண்டிய முறை போன்றவற்றைக்கொண்டிருக்கும். இவை பற்றிய விவரம் தெரியாமல் இக்கோப்புகளை மாற்றவோ நீக்கவோ கூடாது",
+		"englishSentence": "If you check this option, any files in your desktop directory that begin with a period (.) will be shown. Usually, such files contain configuration information, and remain hidden from view. \\ For example, files which are named \\\\ \". directory\\\\ \" are plain text files which contain information for Konqueror, such as the icon to use in displaying a directory, the order in which files should be sorted, etc. You should not change or delete these files unless you know what you are doing"
+	}, {
+		"nativeSentence": "உயிரூட்டப்பட்ட சின்னம்",
+		"englishSentence": "Animated Logo"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "வானம்",
+	"englishMeaning": "sky",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "என்ன",
+	"englishMeaning": "what",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "எப்போதும்",
+	"englishMeaning": "always",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "என்",
+	"englishMeaning": "what",
+	"sentences": [{
+		"nativeSentence": "இது முன் அமைத்த எழுத்தில் ஒரு எழுத்தை பொருத்தும். இந்த சாலரத்தை சொருகும் போழுது ஒரு உறையாடல் பேட்டி தோண்றும், அது எந்த எழுத்து பொருந்தும் என்பதைregexp பொருள் குறிப்பிடும்",
+		"englishSentence": "This will match a single character from a predefined range. When you insert this widget a dialog box will appear, which lets you specify which characters this regexp item will match"
+	}, {
+		"nativeSentence": "எத்தனை முறை அலாரம் ஒலிக்க செய் வேண்டும் என்பதை உள்ளீடு",
+		"englishSentence": "Enter the total number of times to trigger the alarm"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}
+]

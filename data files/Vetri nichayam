@@ -1,0 +1,481 @@
+[{
+	"nativeWord": "வெற்றி",
+	"englishMeaning": "victory",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "நிச்சயம்",
+	"englishMeaning": "assurance",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "இது",
+	"englishMeaning": "this",
+	"sentences": [{
+		"nativeSentence": "இது முன் அமைத்த எழுத்தில் ஒரு எழுத்தை பொருத்தும். இந்த சாலரத்தை சொருகும் போழுது ஒரு உறையாடல் பேட்டி தோண்றும், அது எந்த எழுத்து பொருந்தும் என்பதைregexp பொருள் குறிப்பிடும்",
+		"englishSentence": "This will match a single character from a predefined range. When you insert this widget a dialog box will appear, which lets you specify which characters this regexp item will match"
+	}, {
+		"nativeSentence": "இது நீக்கப்பட்டால், அதனால் தேர்வு செய்த மொழி ஆதரிக்கப்படாது. இது தேர்வு செய்தால் மற்றும் அதை குறியிட்டால், அதன் பின் நீங்கள் ஏற்று எழுத்துகளை அடிக்க வேண்டும். தேர்வு செய்யாவிடில், ஏற்று எழுத்துகளை சாதாரண எழுத்துகளாக தோன்றும். முன்னிருப்பாக ஏற்று எழுத்துகள் அதன் தொடர்புடைய எழுத்துகளாக தோன்றும்",
+		"englishSentence": "If this is disabled, then the selected language does not support it. If this is enabled and if you tick it, then you should type accented letters on their own. If it is not ticked, accented letters will be displayed with normal letters. Default is that accented letters will be shown when the corresponding unaccented letter is guessed. For example, in Catalan, if this is unticked and you type \" o \", the o and ò will be displayed in the word xenofòbia. If this option is ticked, when you type \" o \", only \" o \" will be displayed and you will then have to type \" ò \" for this letter to be displayed"
+	}],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "கொள்கை",
+	"englishMeaning": "doctrine",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "தந்து",
+	"englishMeaning": "cord",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "உண்மை",
+	"englishMeaning": "truth",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "கோப்பில் சேமி",
+		"englishSentence": "Save Image to File"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "சவால்",
+	"englishMeaning": "challenge",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "ஒன்று",
+	"englishMeaning": "one",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "கிஸ்கி குணங்கள் திருத்தி மற்றும் படிவ வடிவமைப்பவர்",
+		"englishSentence": "KexiPropertyEditor and FormDesigner"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "உயிர்",
+	"englishMeaning": "life",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "சூரியன்",
+	"englishMeaning": "sun",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "வேர்வை",
+	"englishMeaning": "sweat",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "மலர்",
+	"englishMeaning": "flower",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "விழி",
+	"englishMeaning": "wake up",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "மழை",
+	"englishMeaning": "rain",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "கட்டை",
+	"englishMeaning": "body",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "ஒவ்வொரு",
+	"englishMeaning": "every",
+	"sentences": [],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "விருட்சம்",
+	"englishMeaning": "tree",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "பெயர்",
+	"englishMeaning": "name",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "வெற்றி",
+	"englishMeaning": "victory",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "என்ன",
+	"englishMeaning": "what",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "பணியகத்தின் குழாய்",
+		"englishSentence": "& Pipe to Console"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "இல்லாமல்",
+	"englishMeaning": "without",
+	"sentences": [],
+	"partOfSpeech": "conjunction",
+	"image": null
+}, {
+	"nativeWord": "நான்",
+	"englishMeaning": "I",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "பணியகத்தின் குழாய்",
+		"englishSentence": "& Pipe to Console"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "வெகுமானம்",
+	"englishMeaning": "gift",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "நிச்சயம்",
+	"englishMeaning": "assurance",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "சங்கீதம்",
+	"englishMeaning": "music",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "இது",
+	"englishMeaning": "this",
+	"sentences": [{
+		"nativeSentence": "இது முன் அமைத்த எழுத்தில் ஒரு எழுத்தை பொருத்தும். இந்த சாலரத்தை சொருகும் போழுது ஒரு உறையாடல் பேட்டி தோண்றும், அது எந்த எழுத்து பொருந்தும் என்பதைregexp பொருள் குறிப்பிடும்",
+		"englishSentence": "This will match a single character from a predefined range. When you insert this widget a dialog box will appear, which lets you specify which characters this regexp item will match"
+	}, {
+		"nativeSentence": "இது நீக்கப்பட்டால், அதனால் தேர்வு செய்த மொழி ஆதரிக்கப்படாது. இது தேர்வு செய்தால் மற்றும் அதை குறியிட்டால், அதன் பின் நீங்கள் ஏற்று எழுத்துகளை அடிக்க வேண்டும். தேர்வு செய்யாவிடில், ஏற்று எழுத்துகளை சாதாரண எழுத்துகளாக தோன்றும். முன்னிருப்பாக ஏற்று எழுத்துகள் அதன் தொடர்புடைய எழுத்துகளாக தோன்றும்",
+		"englishSentence": "If this is disabled, then the selected language does not support it. If this is enabled and if you tick it, then you should type accented letters on their own. If it is not ticked, accented letters will be displayed with normal letters. Default is that accented letters will be shown when the corresponding unaccented letter is guessed. For example, in Catalan, if this is unticked and you type \" o \", the o and ò will be displayed in the word xenofòbia. If this option is ticked, when you type \" o \", only \" o \" will be displayed and you will then have to type \" ò \" for this letter to be displayed"
+	}],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "கொள்கை",
+	"englishMeaning": "doctrine",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "இன்று",
+	"englishMeaning": "today",
+	"sentences": [],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "அவமானம்",
+	"englishMeaning": "disgrace",
+	"sentences": [{
+		"nativeSentence": "நீங்கள் இந்த தேர்வை பயன்படுத்தினால் உங்கள் மேசை அடைவில் [. ] யோடு துவங்கும். அனைத்து கோப்புகளும் காட்டப்படும். இது போன்ற கோப்புகளில் \\ வடிவமைப்பு தகவல்கள் இருக்ப்பதால் மறைக்கப்பட்டிருக்கும். உதாரணமாக \\\\ \". directory \\\\ \" பெயருள்ள கோப்பு சாதாரண உரைக்கோப்பாக கான்கொரர் தகவல்கள், அடைவைக்காட்டும் சின்னம், கோப்புகள் அடுக்கப்படவேண்டிய முறை போன்றவற்றைக்கொண்டிருக்கும். இவை பற்றிய விவரம் தெரியாமல் இக்கோப்புகளை மாற்றவோ நீக்கவோ கூடாது",
+		"englishSentence": "If you check this option, any files in your desktop directory that begin with a period (.) will be shown. Usually, such files contain configuration information, and remain hidden from view. \\ For example, files which are named \\\\ \". directory\\\\ \" are plain text files which contain information for Konqueror, such as the icon to use in displaying a directory, the order in which files should be sorted, etc. You should not change or delete these files unless you know what you are doing"
+	}, {
+		"nativeSentence": "உயிரூட்டப்பட்ட சின்னம்",
+		"englishSentence": "Animated Logo"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "தந்து",
+	"englishMeaning": "cord",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "சத்தியம்",
+	"englishMeaning": "truth",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "சவால்",
+	"englishMeaning": "challenge",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "ஒன்று",
+	"englishMeaning": "one",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "கிஸ்கி குணங்கள் திருத்தி மற்றும் படிவ வடிவமைப்பவர்",
+		"englishSentence": "KexiPropertyEditor and FormDesigner"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "உயிர்",
+	"englishMeaning": "life",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "சூரியன்",
+	"englishMeaning": "sun",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "வேர்வை",
+	"englishMeaning": "sweat",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "மலர்",
+	"englishMeaning": "flower",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "மழை",
+	"englishMeaning": "rain",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "கட்டை",
+	"englishMeaning": "body",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "விருட்சம்",
+	"englishMeaning": "tree",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "ஒவ்வொரு",
+	"englishMeaning": "every",
+	"sentences": [],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "பெயர்",
+	"englishMeaning": "name",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "என்ன",
+	"englishMeaning": "what",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "பணியகத்தின் குழாய்",
+		"englishSentence": "& Pipe to Console"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "நான்",
+	"englishMeaning": "I",
+	"sentences": [{
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}, {
+		"nativeSentence": "பணியகத்தின் குழாய்",
+		"englishSentence": "& Pipe to Console"
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "வெகுமானம்",
+	"englishMeaning": "gift",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "சங்கீதம்",
+	"englishMeaning": "music",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "புது விளக்கச்சீட்டை உள்ளிடுக",
+		"englishSentence": "Enter new label"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "இன்று",
+	"englishMeaning": "today",
+	"sentences": [],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "அவமானம்",
+	"englishMeaning": "disgrace",
+	"sentences": [{
+		"nativeSentence": "நீங்கள் இந்த தேர்வை பயன்படுத்தினால் உங்கள் மேசை அடைவில் [. ] யோடு துவங்கும். அனைத்து கோப்புகளும் காட்டப்படும். இது போன்ற கோப்புகளில் \\ வடிவமைப்பு தகவல்கள் இருக்ப்பதால் மறைக்கப்பட்டிருக்கும். உதாரணமாக \\\\ \". directory \\\\ \" பெயருள்ள கோப்பு சாதாரண உரைக்கோப்பாக கான்கொரர் தகவல்கள், அடைவைக்காட்டும் சின்னம், கோப்புகள் அடுக்கப்படவேண்டிய முறை போன்றவற்றைக்கொண்டிருக்கும். இவை பற்றிய விவரம் தெரியாமல் இக்கோப்புகளை மாற்றவோ நீக்கவோ கூடாது",
+		"englishSentence": "If you check this option, any files in your desktop directory that begin with a period (.) will be shown. Usually, such files contain configuration information, and remain hidden from view. \\ For example, files which are named \\\\ \". directory\\\\ \" are plain text files which contain information for Konqueror, such as the icon to use in displaying a directory, the order in which files should be sorted, etc. You should not change or delete these files unless you know what you are doing"
+	}, {
+		"nativeSentence": "உயிரூட்டப்பட்ட சின்னம்",
+		"englishSentence": "Animated Logo"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "சத்தியம்",
+	"englishMeaning": "truth",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "சார்ந்திருப்பவரின் தொடர்பு தொலைந்துவிட்டது!",
+		"englishSentence": "Connection to client has been lost!"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "உண்மை",
+	"englishMeaning": "truth",
+	"sentences": [{
+		"nativeSentence": "கோப்பு % #ஐ திறக்க முடியவில்லை % # சரப்பட்டியலை ஏற்ற முடியவில்லை",
+		"englishSentence": "Cannot open the file %# and load the string list"
+	}, {
+		"nativeSentence": "கோப்பில் சேமி",
+		"englishSentence": "Save Image to File"
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "சந்தோஷம்",
+	"englishMeaning": "delight",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "விழி",
+	"englishMeaning": "wake up",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "சந்தோஷம்",
+	"englishMeaning": "delight",
+	"sentences": [],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "இல்லாமல்",
+	"englishMeaning": "without",
+	"sentences": [],
+	"partOfSpeech": "conjunction",
+	"image": null
+}]

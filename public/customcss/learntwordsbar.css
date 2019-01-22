@@ -1,0 +1,51 @@
+img.notepad_svg {
+	width: 30px;
+	height: 35px;
+}
+
+sup
+{
+	font-weight: bold;
+	color: rgb(206, 97, 29);
+	font-size: large;
+
+}
+
+.learnt-words
+{
+    font-size: 19px;
+    color: white;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-align : center;
+}
+
+.learnt-words-container{
+  min-height: 180px;
+  overflow: scroll;
+}
+
+.learnt-words:hover
+{
+	color: rgb(206, 97, 29);
+
+}
+      .download{
+      	margin-top: 135%;
+      	border-top: 1px solid white;
+      	font-size: 17px;
+      	padding-top: 10px;
+
+      }
+
+      .fa-download,.download-label{
+        color: white;
+      }
+
+      .learnt-words-expand{
+        font-size: 13px;
+        text-align: left;
+      }
+      .info{
+        padding-bottom: 5px;
+      }

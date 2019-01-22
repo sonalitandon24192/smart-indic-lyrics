@@ -1,0 +1,100 @@
+
+
+.fa-star {
+	padding-left: 5px;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: orange;
+    color: #FFFFFF;
+}
+.fa-star:hover
+{
+	color : orange;
+}
+
+hr
+{
+	margin-top: 10px;
+}
+
+
+
+
+.second-row
+{
+	/*margin-top:5%;*/
+}
+
+	.song-lyrics-pre{
+		font-size: 18px;
+	}
+
+.active-tab 
+{
+	color :rgb(206, 97, 29);
+}
+
+
+.song-name,.song-audio,.song-lyrics
+{
+	padding-bottom: 50px;
+}
+
+.song-lyrics
+{
+	font-size: 26px;
+	max-height: 500px !important;
+    overflow: scroll;
+}
+
+
+.popover-class{
+	color: black !important;
+    text-decoration: none;
+}
+.content {
+	position: relative;
+	min-height: 300px;
+	margin: 150px 200px 0 200px;
+	color: black;
+}
+
+.content--loading {
+	background: url(../img/loading.svg) no-repeat 50% 50%;
+}
+
+.no-song-instructions
+{
+	text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 8%;
+}
+
+.no-song-instructions > li{
+	list-style-type: none;
+}
+
+.learnt-words{
+	padding-top: 20px;
+}
+.repeated-item {
+      margin: 3px;
+      padding-top: 4px;
+      font-size: 19px;
+      border: solid 1px #333;
+      background-color: black;
+      color : white;
+      }
+      .fa-times-circle
+      {
+      padding-left :10px;
+      color : white;
+      }
+
+      .download{
+      	margin-top: 135%;
+      	border-top: 1px solid white;
+      	font-size: 17px;
+      	padding-top: 10px;
+
+      }

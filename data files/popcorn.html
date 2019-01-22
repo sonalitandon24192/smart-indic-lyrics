@@ -1,0 +1,55 @@
+<html>
+     <head>
+       <style>
+       .word {
+   color: red;
+}
+.word:hover, .word.selected {
+    color: blue;
+    cursor: pointer;
+}
+       </style>
+       <script src="http://popcornjs.org/code/dist/popcorn-complete.js"></script>
+       <script src="jquery-3.1.1.min.js"></script>
+       <script>
+       document.addEventListener("DOMContentLoaded", function () {
+       var pop = Popcorn("#greeting");
+
+var wordTimes = {
+  "w1": { start: 1, end: 1.5 },
+  "w2": { start: 1.9, end: 2.5 },
+  "w3": { start: 3, end: 4 }
+};
+
+$.each(wordTimes, function(id, time) {
+   pop.footnote({
+      start: time.start,
+      end: time.end,
+      text: '',
+      target: id,
+      effect: "applyclass",
+      applyclass: "selected"
+  });
+});
+
+pop.play();
+
+$('.word').click(function() {
+  var audio = $('#greeting');
+  audio[0].currentTime = parseFloat($(this).data('start'), 10);
+  audio[0].play();
+});
+  }, false);
+       </script>
+     </head>
+     <body>
+       <audio id="greeting" src="http://dl.dropbox.com/u/17154625/greeting.ogg" controls></audio>
+
+<div id="text">
+   <span id="w1" class="word" data-start="1.0">Hello</span>,
+   and <span id="w2" class="word" data-start="2.0">welcome</span>
+   to Stack <span id="w3" class="word" data-start="3.0">Overflow</span>.
+   Thank you for asking your question.
+</div>
+     </body>
+   </html>

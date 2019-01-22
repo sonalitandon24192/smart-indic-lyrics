@@ -1,0 +1,964 @@
+[
+  {
+    nativeWord: "வேதசத்தியம்",
+    englishMeaning: "Promise",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "what happened to all those firm promises of support?",
+        "nativeSentence": ""
+      }
+    ]
+  },
+  {
+    nativeWord: "வெல்வதே",
+    englishMeaning: "Winning",
+    partOfSpeech: "adjective",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "கொண்ட",
+    englishMeaning: "With",
+    partOfSpeech: "preposition",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "என்னை",
+    englishMeaning: "Me",
+    partOfSpeech: "preposition",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "மதித்தால்",
+    englishMeaning: "Warmth",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "என்னுயிர்",
+    englishMeaning: "Life",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "காப்பேன்",
+    englishMeaning: "Save",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "மிதித்தால்",
+    englishMeaning: "Trampled by",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "இரண்டில்",
+    englishMeaning: "In either",
+    partOfSpeech: "preposition",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "பார்ப்பேன்",
+    englishMeaning: "Look",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "அடே",
+    englishMeaning: "that",
+    partOfSpeech: "preposition",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "நண்பா",
+    englishMeaning: "Friend",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "சொல்வேன்",
+    englishMeaning: "Tell",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "I told her you were coming",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வேண்டாம்",
+    englishMeaning: "Do not",
+    partOfSpeech: "preposition",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "உன்னை",
+    englishMeaning: "You",
+    partOfSpeech: "preposition",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வெல்வேன்",
+    englishMeaning: "Will win",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "The Mets have won four games in a row",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "இமயமலை",
+    englishMeaning: "Himalayas",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "ஆகாமல்",
+    englishMeaning: "Unsold",
+    partOfSpeech: "adjective",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "எனது",
+    englishMeaning: "My",
+    partOfSpeech: "article",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "போகாது",
+    englishMeaning: "Will not",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "தூங்கலாம்",
+    englishMeaning: "Sleep",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "I was on the verge of sleep",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "தூங்காது",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "சிந்தாமல்",
+    englishMeaning: "Without",
+    partOfSpeech: "preposition",
+    sentences: [
+      {
+        "englishSentence": "he went to Sweden without her",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "பூவாது",
+    englishMeaning: "Poem",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "எல்லையைத்",
+    englishMeaning: "Boundary",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "The eastern boundary of the wilderness",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "தொடும்",
+    englishMeaning: "Touching",
+    partOfSpeech: "adjective",
+    sentences: [
+      {
+        "englishSentence": "Your loyalty is very touching",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வரை",
+    englishMeaning: "Up",
+    partOfSpeech: "adverb",
+    sentences: [
+      {
+        "englishSentence": "He jumped up.",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வேகாது",
+    englishMeaning: "Not die",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "விதையிலும்",
+    englishMeaning: "Cotyledon",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "ஒளிந்துள்ளதே",
+    englishMeaning: "hidden",
+    partOfSpeech: "adjective",
+    sentences: [
+      {
+        "englishSentence": "He hid the money in the house",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "விடியலும்",
+    englishMeaning: "Dawn",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "The rose-pink light of dawn",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "சொல்லுதே",
+    englishMeaning: "says",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "Always say the truth.",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "பணமும்",
+    englishMeaning: "Money",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "புகழும்",
+    englishMeaning: "Praise",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "கண்ணை",
+    englishMeaning: "Eye",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "மறைக்கிறதே",
+    englishMeaning: "hiding",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "சொல்வேன்",
+    englishMeaning: "Tell",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "I told her you were coming.",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "கண்ட",
+    englishMeaning: "seen",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வென்று",
+    englishMeaning: "Won",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "தரும்",
+    englishMeaning: "Returns",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வானமே",
+    englishMeaning: "Sky",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "Hundreds of stars shining in the sky",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "தாழலாம்",
+    englishMeaning: "Bow down",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "தாழ்வதில்லை",
+    englishMeaning: "Will not bow",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "தன்மானம்",
+    englishMeaning: "Self-respect",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "மேடுபள்ளம்",
+    englishMeaning: "Ups and downs",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "பாறைகள்",
+    englishMeaning: "Rocks",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "நீங்கினால்",
+    englishMeaning: "Losing",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "ஓடைக்கில்லை",
+    englishMeaning: "break",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "பொய்மையும்",
+    englishMeaning: "False",
+    partOfSpeech: "adjective",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வஞ்சமும்",
+    englishMeaning: "Craft",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "படைகள்",
+    englishMeaning: "Forces",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "பூர்வீகமே",
+    englishMeaning: "origin",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "ரத்தமும்",
+    englishMeaning: "Blood",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வேர்வையும்",
+    englishMeaning: "Roots",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "ராஜாங்கமே",
+    englishMeaning: "Empire",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "நடையில்",
+    englishMeaning: "In style",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "உனது",
+    englishMeaning: "Your",
+    partOfSpeech: "article",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "பொடிபடுமே",
+    englishMeaning: "Fall",
+    partOfSpeech: "verb",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  } , {
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "",
+    englishMeaning: "",
+    partOfSpeech: "",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  } ,{
+    nativeWord: "வெற்றி",
+    englishMeaning: "Success",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "இது",
+    englishMeaning: "It",
+    partOfSpeech: "pronoun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "கொள்கை",
+    englishMeaning: "Policy",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "நான்",
+    englishMeaning: "I",
+    partOfSpeech: "pronoun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "தந்து",
+    englishMeaning: "Starships",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "உண்மை",
+    englishMeaning: "Really",
+    partOfSpeech: "adjective",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "சவால்",
+    englishMeaning: "Challenge",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வேத",
+    englishMeaning: "Vedic",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "சத்தியம்",
+    englishMeaning: "Truth",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "உயிர்",
+    englishMeaning: "Bio",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "சூரியன்",
+    englishMeaning: "Sun.",
+    partOfSpeech: "abbreviation",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "விழி",
+    englishMeaning: "Ocular",
+    partOfSpeech: "adjective",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வேர்வை",
+    englishMeaning: "sweat",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "மழை",
+    englishMeaning: "shower",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "மலர்",
+    englishMeaning: "Flower",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "கட்டை",
+    englishMeaning: "Dressing",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "விருட்சம்",
+    englishMeaning: "Tree",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "பெயர்",
+    englishMeaning: "Name",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "இன்று",
+    englishMeaning: "Today",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  },{
+    nativeWord: "வெகுமானம்",
+    englishMeaning: "Honorarium",
+    partOfSpeech: "noun",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  }, {
+    nativeWord: "இல்லாமல்",
+    englishMeaning: "Without",
+    partOfSpeech: "preposition",
+    sentences: [
+      {
+        "englishSentence": "",
+        "nativeSentence": ""
+      }
+    ]
+  }
+]

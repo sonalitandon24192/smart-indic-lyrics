@@ -1,0 +1,159 @@
+<div>
+  <div class="row">
+    <h1 class="col-md-12 app-name">ಸmart इndic લyrics</h1>
+  </div>
+  <div class="row page-container">
+    <div class="col-sm-3 col-md-3 songs-container">
+      <div class="songs-header">
+        SONGS
+      </div>
+      <div class="song-search-container">
+        <input type="text" class="col-md-12 song-search-text" name="songName" ng-model="songName" placeholder="Search for a song">
+      </div>
+      <div class="panel-group">
+        <div class="panel panel-default" ng-repeat="language in languages">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+            <a data-toggle="collapse" data-target="#{{language}}"><i class="fa fa-music icon-styles" aria-hidden="true"></i>
+            {{language}}</a>
+          </h4>
+          </div>
+          <div id="{{language}}" class="panel-collapse collapse">
+            <!-- <div class="check">song is {{currentSong.songNameEnglish === song.songNameEnglish}}
+          </div> -->
+            <div class="panel-body">
+              <div ng-repeat="song in songs | filter: songName">
+                <a ng-if="song.language === language" ng-click="setCurrentSong(song)" ng-class="{{song.songNameEnglish === currentSong.songNameEnglish}} ? 'selected-song col-md-12' : 'song-name col-md-12'">
+                    {{song.songNameEnglish}}
+              </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-6 song-details-container">
+      <div ng-if="currentSong">
+        <div>
+          <h2 class="song-name">{{currentSong.songNameNative}}/{{currentSong.songNameEnglish}}</h2>
+        </div>
+        <div class="audio-section">
+          <audio id="song-audio-id" class="song-audio" controls ng-src="{{currentSong.audioFile}}"></audio>
+          <div class="play-button-section">
+            <button class="play-button" ng-click="setHighlight()">Play</button>
+          </div>
+        </div>
+        <!-- {{smartWordsDbFormat}} -->
+        <!-- <div>
+        hover words {{ numberOfHoveredWords }}<br/>
+        learnt more clicks{{ numberOfLearnMoreClicked }}<br/>
+        learnt words{{ favWords.length}}<br/>
+        download file{{downloadFile}}<br/>
+        english{{englishTab }}<br/>
+        </div> -->
+        <div class="song-lyrics">
+          <ul class="nav nav-tabs song-tab" ng-if="currentSong">
+            <li role="presentation" class="active"><a ng-click="setSongLyrics('native')">{{currentSong.language}}</a></li>
+            <li role="presentation" ng-click="trackenglishTab()"><a ng-click="setSongLyrics('english')">English</a></li>
+          </ul>
+          <div>
+            <div class="song-container" ng-if="currentSong.type === 'native'">
+              <span id="text" ng-repeat="word in currentSong.selectedLyrics track by $index" ng-mouseover="isOpen=true" ng-mouseleave="isOpen=false">
+              <span uib-popover popover-trigger="none" popover-is-open="isOpen" popover-placement="top" uib-popover-template="'expand-popover-template.html'" >
+              <span ng-if="word.word !== ';'" id="{{word.word}}-{{word.num}}" class="word" data-start="{{$index}}" ng-mouseover="trackHoveredWords(word.word)"> {{word.word}} </span>
+              <span ng-if="word.word === ';'"><br/></span>
+              </span>
+              <script type="text/ng-template" id="expand-popover-template.html">
+                <div>
+                  <span>{{meaningsMap[word.word].englishMeaning | uppercase}}</span>
+                  <span class="pull-right">
+                    <i class="fa fa-star" aria-hidden="true" ng-click="addToFav(word.word)"></i>
+                  </span>
+                </div>
+                <div>
+                  <a ng-click="learnMore(word.word)" ng-hide="meaningsMap[word.word].expandLearnMore">Learn more</a>
+                </div>
+                <div ng-show="meaningsMap[word.word].expandLearnMore">
+                  <div class="meaning-section">
+                    <div>
+                      <span class="part-of-speech-width">
+                          <b>Part of speech:</b> {{meaningsMap[word.word].partOfSpeech}}
+                      </span>
+                      <span ng-if="meaningsMap[word.word].image">
+                        <img class ="popover-image" ng-src="{{meaningsMap[word.word].image}}"/>
+                      </span>
+                    </div>
+                    <div>
+                      <span>
+                        <b>Example sentences:</b>
+                      </span>
+                      <div ng-repeat="sentences in meaningsMap[word.word].sentences">
+                        {{sentences.nativeSentence}}({{sentences.englishSentence}})
+                      </div>
+                    </div>
+                  </div>
+                  <div ng-if="meaningsMap[word.word].alternativeMeaning">
+                    <div class="alternative-section"><b>Alternative Meaning</b></div>
+                    <div>
+                      {{meaningsMap[word.word].alternativeMeaning.englishMeaning | uppercase}}
+                    </div>
+                    <div>
+                      <span class="part-of-speech-width">
+                          <b>Part of speech:</b> {{meaningsMap[word.word].alternativeMeaning.partOfSpeech}}
+                      </span>
+                    </div>
+                    <div>
+                      <span>
+                        <b>Example sentences:</b>
+                      </span>
+                      <div ng-repeat="sentences in meaningsMap[word.word].alternativeMeaning.sentences">
+                        {{sentences.nativeSentence}}({{sentences.englishSentence}})
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </script>
+              </span>
+            </div>
+            <div class="song-container" ng-if="currentSong.type === 'english'">
+              <span id="text" ng-repeat="word in currentSong.selectedLyrics track by $index">
+            <span ng-if="word.word !== ';'"> {{word.word}} </span>
+              <span ng-if="word.word === ';'"><br/></span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div ng-if="!currentSong">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <div class="no-song-container">
+              <ul>
+                <li>Please select a song.</li>
+                <li>Hover over each word to know it's vocabulary definition, part of speech and example sentences.</li>
+                <li>Star words to add it your list of Learnt Words.</li>
+                <li>Download learnt words for future reference.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-3 col-md-3 learnt-words-container">
+      <div class="learnt-words-header">Learnt Words</div>
+      <div class="row">
+        <div ng-repeat="word in favWords" class="col-md-12 learnt-word">
+          <div class="col-md-10">
+            {{word.Word}}
+          </div>
+          <div class="col-md-2">
+            <i class="fa fa-times-circle" aria-hidden="true" ng-click="removeFav(word)"></i>
+          </div>
+        </div>
+      </div>
+      <div class="download-container" ng-show="favWords.length !== 0">
+        <i class="fa fa-download" aria-hidden="true"></i>
+        <span ng-click="downloadFileFunc()">Download</span>
+      </div>
+    </div>
+  </div>

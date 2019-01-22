@@ -1,0 +1,64 @@
+body {
+	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	overflow-x: scroll;
+    overflow-y: scroll;
+    background-color: #eee;
+}
+
+.first-row
+{
+	text-align: center;
+
+}
+.second-row
+{
+	margin-top :0%;
+}
+.col-md-3
+{
+	width: 20%;
+}
+
+.col-md-6
+{
+	width: 60%;
+}
+
+.side-bar-first-row, .side-bar-second-row
+{
+	background: #1c1d22;	
+}
+
+h3.side-bar-heading {
+	
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-weight: bolder;
+	color : white;
+}
+
+.fa-music,img.notepad_svg 
+{
+	margin-top: 35px;
+
+}
+
+.side-bar-second-row
+{
+	height: 100vh;
+}
+
+.song-lyrics-english{
+	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    padding: 15px;
+}
+.song-lyrics{
+	width: 51%;
+	background-color: white;
+}
+.songdiv{
+	padding-top: 15px;
+}

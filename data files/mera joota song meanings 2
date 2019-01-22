@@ -1,0 +1,368 @@
+[{
+	"nativeWord": "मेरा",
+	"englishMeaning": "my",
+	"sentences": [{
+		"nativeSentence": "मेरा नाम जॉन है |",
+		"englishSentence": "My name is John."
+	}],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "जूता",
+	"englishMeaning": "shoe",
+	"sentences": [{
+		"nativeSentence": "मेरा जूता बारिश में गीला हो गया।",
+		"englishSentence": "My shoe got wet in the rain."
+	}],
+	"partOfSpeech": "noun",
+	"image": "img/shoe.png"
+}, {
+	"nativeWord": "ये",
+	"englishMeaning": "these",
+	"sentences": [{
+		"nativeSentence": "ये संतरे अच्छे हैं।",
+		"englishSentence": "These oranges are good."
+	}],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "पतलून",
+	"englishMeaning": "trousers",
+	"sentences": [{
+		"nativeSentence": "सामान्य क्रिकेट वर्दी एक सफेद शर्ट और सफेद पतलून है।",
+		"englishSentence": "The normal cricket uniform is a white shirt and white trousers."
+	}],
+	"partOfSpeech": "noun",
+	"image": "img/trousers.jpg"
+}, {
+	"nativeWord": "है",
+	"englishMeaning": "is",
+	"sentences": null,
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "टोपी",
+	"englishMeaning": "hat",
+	"sentences": [{
+		"nativeSentence": "एक टोपी सूरज की रोशनी से सिर की रक्षा करता है।",
+		"englishSentence": "A hat protects the head from sunlight."
+	}],
+	"partOfSpeech": "noun",
+	"image": "img/hat.png"
+}, {
+	"nativeWord": "पे",
+	"englishMeaning": "on",
+	"sentences": null,
+	"partOfSpeech": "preposition",
+	"image": null
+}, {
+	"nativeWord": "लाल",
+	"englishMeaning": "red",
+	"sentences": [{
+		"nativeSentence": "राखी लाल डोरी तथा रंग - विरंगी रूई से बनाई जाती",
+		"englishSentence": "The rakhi threads are spun out of cotton and dyed in red ."
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "रूसी",
+	"englishMeaning": "Russian",
+	"sentences": [{
+		"nativeSentence": "रूस दुनिया में सबसे बड़ा देश है।",
+		"englishSentence": "Russia is the largest country in the world."
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "फिर",
+	"englishMeaning": "again",
+	"sentences": null,
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "भी",
+	"englishMeaning": "also",
+	"sentences": null,
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "दिल",
+	"englishMeaning": "heart",
+	"sentences": [{
+		"nativeSentence": "दिल शरीर के सभी भागों में रक्त देता है।",
+		"englishSentence": "Heart gives blood to all parts of the body."
+	}],
+	"partOfSpeech": "noun",
+	"image": "img/heart.png"
+}, {
+	"nativeWord": "हिन्दुस्तानी",
+	"englishMeaning": "Hindustani",
+	"sentences": [{
+		"nativeSentence": "भारत और पाकिस्तान के 1948 में अलग हो गए थे।",
+		"englishSentence": "India and Pakistan were separated in 1948."
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "जैसे",
+	"englishMeaning": "namely",
+	"sentences": null,
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "नीचे-ऊपर",
+	"englishMeaning": "up/down",
+	"sentences": [{
+		"nativeSentence": "बस स्टाप के उस भीड़ में मेरी सांसें उपर नीचे होने लगी।",
+		"englishSentence": "Amidst the crowd at the bus stop, my breath fluctuated up and down."
+	}],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "जाने",
+	"englishMeaning": "let",
+	"sentences": [{
+		"nativeSentence": "Birds should be let out of the cage so that they can fly freely.",
+		"englishSentence": "पक्षी पिंजरे से बाहर जाने के लिए किया जाना चाहिए, ताकि वे स्वतंत्र रूप से उड़ सकता है।"
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "दरिया",
+	"englishMeaning": "river",
+	"sentences": [{
+		"nativeSentence": "Ganga is a river in India.",
+		"englishSentence": "गंगा भारत में एक नदी है।"
+	}],
+	"partOfSpeech": "noun",
+	"image": "img/river.jpg"
+}, {
+	"nativeWord": "चले",
+	"englishMeaning": "go",
+	"sentences": null,
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "हम",
+	"englishMeaning": "we",
+	"sentences": [],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "जो",
+	"englishMeaning": "who",
+	"sentences": [],
+	"partOfSpeech": "pronoun",
+	"image": null
+}, {
+	"nativeWord": "तूफानी",
+	"englishMeaning": "turbulent",
+	"sentences": [{
+		"nativeSentence": "हिंदू-मुस्लिम झगड़े आम तौर पर हमारे देश में तूफानी मचाते है।",
+		"englishSentence": "Hindu-Muslim fights usually cause turbulence in our country."
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "मंजिल",
+	"englishMeaning": "aim",
+	"sentences": [{
+		"nativeSentence": "मेरा मंजिल इतना है कि मैं बीमार लोगों की मदद कर सकते हैं एक डॉक्टर बनना है।",
+		"englishSentence": "My aim is to be a doctor so that I can help ill people."
+	}],
+	"partOfSpeech": "noun",
+	"image": null,
+	"alternativeMeaning": {
+		"englishMeaning": "floor",
+		"sentences": [{
+			"nativeSentence": "मेरे घर तीसरी मंजिल पर है",
+			"englishSentence": "My house is on the third floor"
+		}],
+		"partOfSpeech": "noun"
+	}
+}, {
+	"nativeWord": "बैठ",
+	"englishMeaning": "sit",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "निकल",
+	"englishMeaning": "get out",
+	"sentences": [{
+		"nativeSentence": "गौतम बुद्ध एक भिक्षु हो गये थे अत : दूसरे दिन प्रात : वे भिखापात्र हाथ में लेकर भिक्षा मांगने निकल पडे .",
+		"englishSentence": "The next morning the Buddha , as customary among monks , took his bowl and set out to beg ."
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "की",
+	"englishMeaning": "of",
+	"sentences": [],
+	"partOfSpeech": "preposition",
+	"image": null
+}, {
+	"nativeWord": "सड़क",
+	"englishMeaning": "road",
+	"sentences": [{
+		"nativeSentence": "मोहनजोदड़ो की सड़कें बहुत अच्छी तरह से बनाया गया था।",
+		"englishSentence": "Mohenjo daro's roads were made very well."
+	}],
+	"partOfSpeech": "noun",
+	"image": "img/road.png"
+}, {
+	"nativeWord": "एक",
+	"englishMeaning": "one",
+	"sentences": [{
+		"nativeSentence": "मेरा एक भाई और एक बहन है।",
+		"englishSentence": "I have one brother and one sister."
+	}],
+	"partOfSpeech": "adjective",
+	"image": null
+}, {
+	"nativeWord": "अपना",
+	"englishMeaning": "own",
+	"sentences": [{
+		"nativeSentence": " बुढ़ापे में हमे अपनमे ाता-पिता का ख्याल रखना चाहिए।",
+		"englishSentence": "We should take care of our parents in their old age."
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "पर",
+	"englishMeaning": "but",
+	"sentences": null,
+	"partOfSpeech": "conjuction",
+	"image": null
+}, {
+	"nativeWord": "रुकना",
+	"englishMeaning": "stop",
+	"sentences": [],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "सीना",
+	"englishMeaning": "chest",
+	"sentences": [{
+		"nativeSentence": "स्वतंत्रता दिवस परेड के दौरान सैनिक सीना तानके मार्च करते है",
+		"englishSentence": "During the independence day parade, soldiers march with their chest broad."
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "कहाँ",
+	"englishMeaning": "where",
+	"sentences": [],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "सर",
+	"englishMeaning": "head",
+	"sentences": [{
+		"nativeSentence": "एक टोपी सूरज की रोशनी से सिर की रक्षा करता है।",
+		"englishSentence": "A hat protects the head from sunlight."
+	}],
+	"partOfSpeech": "noun",
+	"image": "img/head.jpg"
+}, {
+	"nativeWord": "जीवन",
+	"englishMeaning": "life",
+	"sentences": [{
+		"nativeSentence": "जीवन की आवश्यकताओं भोजन, आश्रय और कपड़े हैं।।",
+		"englishSentence": "The requirements of life are food,shelter and clothes."
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "लहर",
+	"englishMeaning": "wave",
+	"sentences": [{
+		"nativeSentence": "नदी की लहरें जैसे मां की बांहें बनकर शिशु को वापिस अपने मित्रों के पास ले आती हैं .",
+		"englishSentence": "The waves like a mother ' s arms take back the child to its bosom ."
+	}],
+	"partOfSpeech": "verb",
+	"image": "img/wave.png"
+}, {
+	"nativeWord": "वतन",
+	"englishMeaning": "homeland",
+	"sentences": [{
+		"nativeSentence": "भारत मेा वतन है",
+		"englishSentence": "India is my homeland."
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "चलना",
+	"englishMeaning": "walk",
+	"sentences": [{
+		"nativeSentence": "मैं हर रोज बस स्टॉप के लिए अपने घर से चलता हू।",
+		"englishSentence": "I walk from my home to the bus stop everyday."
+	}],
+	"partOfSpeech": "noun",
+	"image": "img/walk.png"
+}, {
+	"nativeWord": "मौत",
+	"englishMeaning": "death",
+	"sentences": [{
+		"nativeSentence": "एक युद्ध में, कई बहादुर सैनिकों की मौत हे जाती हैं।",
+		"englishSentence": "In a war, many brave soldiers die."
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "जा",
+	"englishMeaning": "go",
+	"sentences": [{
+		"nativeSentence": "प्रसव के ठीक पहले और तुरन्त बाद चोकर का गर्म दलिया जानवर को दिया जाना चाहिए .",
+		"englishSentence": "A warm bran mash just before and after calving should be given to the animal ."
+	}],
+	"partOfSpeech": "verb",
+	"image": null
+}, {
+	"nativeWord": "निशानी",
+	"englishMeaning": "mark",
+	"sentences": [{
+		"nativeSentence": "मंगलसूत्र भारत में एक विवाहित महिला की निशानी है।",
+		"englishSentence": "Mangalsutra is the mark of a married woman in India."
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}, {
+	"nativeWord": "जब",
+	"englishMeaning": "when",
+	"sentences": [],
+	"partOfSpeech": "adverb",
+	"image": null
+}, {
+	"nativeWord": "सूरत",
+	"englishMeaning": "looks",
+	"sentences": [{
+		"nativeSentence": "बाहरी सूरत से कुछ पता नही चलता है ",
+		"englishSentence": "You can't judge a book by its cover."
+	}],
+	"image": null
+}, {
+	"nativeWord": "को",
+	"englishMeaning": "to",
+	"sentences": null,
+	"partOfSpeech": "preposition",
+	"image": null
+}, {
+	"nativeWord": "राह",
+	"englishMeaning": "road",
+	"sentences": [{
+		"nativeSentence": "वहाँ कई कारें हैं सड़क पर",
+		"englishSentence": "There are many cars on the road."
+	}],
+	"partOfSpeech": "noun",
+	"image": "road.png"
+}, {
+	"nativeWord": "हैरानी",
+	"englishMeaning": "perplexity",
+	"sentences": [{
+		"nativeSentence": "ऐसे में सेंधमारी कोई हैरानी की बात नहीं है .",
+		"englishSentence": "So perhaps the burglaries are n ' t much of a surprise ."
+	}],
+	"partOfSpeech": "noun",
+	"image": null
+}]
